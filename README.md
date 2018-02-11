@@ -6,11 +6,11 @@ Treinando java 8
 
 ```
 
-## 1. Requisitos 
+## 1. Exemplos práticos:
 
-Lambda
-Method referencia
-Tratamento de Datas
+1. Lambda
+2. Method referencia
+3. Tratamento de Datas
 
 
 ```
