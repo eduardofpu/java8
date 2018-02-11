@@ -10,7 +10,8 @@ Treinando java 8
 
 1. Lambda
 2. Method referencia
-3. Tratamento de Datas
+3. Stream
+4. Tratamento de Datas
 
 
 ```
